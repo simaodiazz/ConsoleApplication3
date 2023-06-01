@@ -90,7 +90,7 @@ namespace ConsoleApplication3
 
             for (var i = 1; i <= 10; i++)
             {
-                tabuada = num * 1;
+                tabuada = num * i;
                 Console.WriteLine(tabuada);
             }
 
